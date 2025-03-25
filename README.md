@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sreenithya1609" alt="Sreenithya1609" /></a> </p>
 
-- 📫 How to reach me **sreenithyakumarasamy16@gmail.com**
+- 📫 How to reach me **sreenithyakumarasamy.16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
