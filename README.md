@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, Sree Nithya K.J</h1>
+![image](https://github.com/user-attachments/assets/597afed2-edac-4e32-9588-7dc8a542e64b)<h1 align="center">Hi 👋, Sree Nithya K.J</h1>
 <h3 align="center">A passionate Data Science</h3>
-![My Animated GIF](https://github.com/Sreenithya1609/Sreenithya1609/raw/main/animated_programmer.gif)
+<img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreenithya1609&label=Profile%20views&color=0e75b6&style=flat" alt="Sreenithya1609" /> </p>
 
