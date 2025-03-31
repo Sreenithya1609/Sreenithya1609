@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/597afed2-edac-4e32-9588-7dc8a542e64b)<h1 align="center">Hi 👋, Sree Nithya K.J</h1>
+<h1 align="center">Hi 👋, Sree Nithya K.J</h1>
 <h3 align="center">A passionate Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
