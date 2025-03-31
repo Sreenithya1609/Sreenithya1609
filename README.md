@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Sree Nithya K.J</h1>
 <h3 align="center">A passionate Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/21403543/file/original-be19c97188041324647914e09e7f141f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreenithya1609&label=Profile%20views&color=0e75b6&style=flat" alt="Sreenithya1609" /> </p>
 
